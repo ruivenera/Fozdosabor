@@ -1,0 +1,2 @@
+/assets/:dir/:file   /:file   200
+/assets/:file        /:file   200
